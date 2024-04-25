@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: orange;
+}
+
+a {
+    padding: 10px 10px; 
+    background-color: chocolate;
+    color: white;
+    text-decoration: none;
+}
+
+a#mail-ejemplo {
+    background-color: white;
+    color: black;
+}
+
+.sucursales {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2 {
+    margin: 20px 0 20px 0;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+article section {
+    margin: 10px;
+}
+
+input, textarea {
+    display: block;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    display: inline;
+}
+
+footer {
+    background-color: orange;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
